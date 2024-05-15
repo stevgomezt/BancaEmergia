@@ -774,7 +774,7 @@ form button {
 
 .container-step {
     width: 630px;
-    height: 320px;
+    height: 400px;
     margin: 0 1rem;
     padding: 1rem;
     background: #ffffffdb;
@@ -861,7 +861,7 @@ form button {
 
 .title-steps {
     width: 222px;
-    height: 85px;
+    height: 40px;
     border-top: 20px solid transparent;
     border-bottom: 20px solid transparent;
     border-left: 20px solid #6eb4ff;
